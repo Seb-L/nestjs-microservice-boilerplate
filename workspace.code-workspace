@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "gateway"
+		},
+		{
+			"path": "mailer"
+		},
+		{
+			"path": "scheduler"
+		},
+		{
+			"path": "sentiment"
+		}
+	],
+	"settings": {}
+}
